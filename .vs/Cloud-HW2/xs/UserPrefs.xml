@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D270327D-0A99-4B9C-A640-816DDDCEACC5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cloud-HW2/Cloud-HW2.cs">
+    <Files>
+      <File FileName="Cloud-HW2/Cloud-HW2.cs" Line="149" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cloud-HW2" expanded="True">
+            <Node name="Cloud-HW2" expanded="True">
+              <Node name="Cloud-HW2.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Cloud-HW2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
